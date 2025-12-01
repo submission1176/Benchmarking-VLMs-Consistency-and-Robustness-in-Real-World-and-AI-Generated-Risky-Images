@@ -1,4 +1,4 @@
-# Benchmarking VLMs on Affective and Discomfort Risks in Real World and AI-Generated Images
+# Benchmarking VLMs Consistency and Robustness in Real-World and AI-Generated Risky Images
 
 
 ## Abstract
